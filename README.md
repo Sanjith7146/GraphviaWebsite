@@ -1,6 +1,6 @@
-The source code for Graphiva Landing site: [graphiva.sanjith.net](graphiva.sanjith.net)
+The source code for Graphiva Landing site: [graphiva.sanjith.net](https://graphiva.sanjith.net)
 
-Download now: [app.sanjith.net/graphiva](app.sanjith.net/graphiva)
+Download now: [app.sanjith.net/graphiva](https://app.sanjith.net/graphiva)
 
 Graphiva simplifies learning complex graph algorithms like Dijkstra's Algorithm, BFS, and DFS, making it the perfect tool for competitive programmers, students, and educators. With Graphiva, you can visualize and interact with graph theories dynamically, bridging the gap between theory and practice.
 
